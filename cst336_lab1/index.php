@@ -17,7 +17,7 @@
         <!---->
         <nav>
             <hr width="50%">
-            <a href="home.html" id="current">Home</a>
+            <a href="index.php" id="current">Home</a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
